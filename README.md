@@ -14,7 +14,7 @@ All the three approaches obscure intuition building
 ## Note to parents & educators:
 This open-access educational resource is authored by a 13-year-old student researcher and managed in partnership with adult mentors to maintain a safe, welcoming learning environment for young AI explorers.
 
-**Who is this for?**
+## Who is this for?
 * **High School & AP Computer Science Students:** Go back into the history of AI 65 years ago to understand how different experiments brought AI where it is today and build a foundational understanding.
 * **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
 * **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
