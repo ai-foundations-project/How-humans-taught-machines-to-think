@@ -27,8 +27,18 @@ Your feedback is most valuable gift to improve the reading experience or materia
 * **Part 1 (1950): Can Machines Think?**
   * 1950: Alan Turing
   * Turing Test
-  * **Key question is answers**: What does it mean to think?
-* **Part 2(1957-1986): Can Machines Learn?**
-* **Part 3 (1958-1986): Why Did AI Fail?**
+  * **Key question it answers**: What does it mean to think?
+* **Part 2: Can Machines Learn?**
+  * Perceptron: Rosenblatt (1958)
+  * Backpropagation: Rumelhart et al. (1986)
+  * Neural Networks
+  * **Key question it answers**: How do machines learn like children?
+* **Part 3: Why Did AI Fail?**
+  * 
 * **Part 4: Can Machines See?**
+  * 
 * **Part 5: Can Machines Understand Language?**
+  * 
+
+
+
