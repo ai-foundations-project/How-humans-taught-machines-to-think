@@ -23,7 +23,7 @@ Your feedback is most valuable gift to improve the reading experience or materia
 * **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
 * **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
 
-## 📚 Table of Contents
+## <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1461e933-d950-499c-b942-a38370afb468" /> Table of Contents
 * **Part 1 (1950): Can Machines Think?**
   * 1950: Alan Turing
   * Turing Test
