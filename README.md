@@ -26,9 +26,8 @@ Your feedback is most valuable gift to improve the reading experience or materia
 ## 📚 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
   * 1950: Alan Turing
-  * "Computing Machinery and Intelligence"
   * Turing Test
-  * Key question is answers: What does it mean to think?
+  **Key question is answers**: What does it mean to think?
 * **Part 2(1957-1986): Can Machines Learn?**
 * **Part 3 (1958-1986): Why Did AI Fail?**
 * **Part 4: Can Machines See?**
