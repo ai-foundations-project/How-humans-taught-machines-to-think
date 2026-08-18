@@ -1,4 +1,4 @@
-# How-humans-taught-machines-to-think
+# 📖 How-humans-taught-machines-to-think
 In this book you can discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
 
 This book translates these papers into intuitive mental models with visual diagrams, easy analogies, and hands-on tools in very small chapters.
@@ -13,17 +13,17 @@ When exploring modern AI, most beginners get caught between extremes:
 
 All the three approaches obscure intuition building
 
-## Note to parents & educators:
+## ✍️ Note to parents & educators:
 This open-access educational book is authored by an 8th-grade student researcher under the guidance of adult mentors to maintain a safe, welcoming learning environment for young AI explorers.
 
 Your feedback is most valuable gift to improve the reading experience or material for the future generations in any way.
 
-## Who is this for?
+## 👥 Who is this for?
 * **High School & AP Computer Science Students:** Go back into the history of AI 65 years ago to understand how different experiments brought AI where it is today and build a foundational understanding.
 * **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
 * **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
 
-## <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/1461e933-d950-499c-b942-a38370afb468" /> Table of Contents
+## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
   * 1950: Alan Turing
   * Turing Test
