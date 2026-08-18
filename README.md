@@ -25,7 +25,7 @@ Your feedback is most valuable gift to improve the reading experience or materia
 
 ## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
-  * 1950: Alan Turing
+  * $\color{red}{\text{1950: Alan Turing}}$
   * Turing Test
   * **Key question**: What does it mean to think?
 * **Part 2: Can Machines Learn?**
@@ -46,4 +46,4 @@ Your feedback is most valuable gift to improve the reading experience or materia
   * Sequence models: Seq2Seq paper
   * **Key question**: How does a machine learn words?
 
-
+$\color{red}{\text{Important text}}$
