@@ -1,7 +1,6 @@
 # How-humans-taught-machines-to-think
 Discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies
-
-This book translates five landmark research papers into intuitive mental models, clear mathematical walkthroughs, and step-by-step visual diagrams.
+This book translates these papers into intuitive mental models with visual diagrams, easy analogies, and hands-on tools to experience the concept in action
 
 ## About the project
 When exploring modern AI, most beginners get caught between extremes:
@@ -25,3 +24,11 @@ This open-access educational resource is authored by a 13-year-old student resea
 * **Part 3 (1958-1986): Why Did AI Fail?**
 * **Part 4: Can Machines See?**
 * **Part 5: Can Machines Understand Language?**
+
+* | Chapter | Paper Title | Authors | Year | Key Concepts Covered |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | *The Perceptron* | Frank Rosenblatt | 1958 | Artificial neurons, decision boundaries, single-layer limits |
+| **02** | *Backpropagation with Errors* | Rumelhart, Hinton, & Williams | 1986 | Credit assignment, chain rule of calculus, gradient descent |
+| **03** | *Word2Vec* | Mikolov et al. | 2013 | Continuous vector spaces, semantic arithmetic, skip-gram model |
+| **04** | *AlexNet* | Krizhevsky, Sutskever, & Hinton | 2012 | Deep CNNs, ReLU activations, dropout regularization, GPU acceleration |
+| **05** | *From History to Transformers* | Various | Modern | Connecting historical foundations to attention mechanisms and LLMs |
