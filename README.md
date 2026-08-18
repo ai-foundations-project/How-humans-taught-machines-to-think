@@ -5,7 +5,7 @@ This book translates these papers into intuitive mental models with visual diagr
 
 I believe this will provide the most foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
-## About the project
+## 💡 Idea & Inspiration
 When exploring modern AI, most beginners get caught between extremes:
 1. high-level tutorials that hide the underlying mechanics,
 2. bottoms up 'ask AI to learn AI', or
@@ -27,18 +27,23 @@ Your feedback is most valuable gift to improve the reading experience or materia
 * **Part 1 (1950): Can Machines Think?**
   * 1950: Alan Turing
   * Turing Test
-  * **Key question it answers**: What does it mean to think?
+  * **Key question**: What does it mean to think?
 * **Part 2: Can Machines Learn?**
   * Perceptron: Rosenblatt (1958)
   * Backpropagation: Rumelhart et al. (1986)
   * Neural Networks
-  * **Key question it answers**: How do machines learn like children?
+  * **Key question**: How do machines learn like children?
 * **Part 3: Why Did AI Fail?**
-  * 
+  * AI Winters
+  * Expert Systems
+  * **Key question**: Why were smart people wrong?
 * **Part 4: Can Machines See?**
-  * 
+  * ImageNet: Geoffrey Hinton and team (AlexNet)
+  * Deep Learning
+  * **Key question**: How did computers learn to recognize cats?
 * **Part 5: Can Machines Understand Language?**
-  * 
-
+  * Word embeddings: Word2Vec paper
+  * Sequence models: Seq2Seq paper
+  * **Key question**: How does a machine learn words?
 
 
