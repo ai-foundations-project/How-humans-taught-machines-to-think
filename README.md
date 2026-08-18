@@ -1,5 +1,5 @@
 # How-humans-taught-machines-to-think
-Discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
+In this book you can discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
 This book translates these papers into intuitive mental models with visual diagrams, easy analogies, and hands-on tools in very small chapters.
 I believe this will provide the most foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
@@ -13,6 +13,7 @@ All the three approaches obscure intuition building
 
 ## Note to parents & educators:
 This open-access educational resource is authored by a 13-year-old student researcher and managed in partnership with adult mentors to maintain a safe, welcoming learning environment for young AI explorers.
+
 Your feedback is most valuable gift to improve the reading experience or material for the future generations in any way.
 
 ## Who is this for?
@@ -26,11 +27,3 @@ Your feedback is most valuable gift to improve the reading experience or materia
 * **Part 3 (1958-1986): Why Did AI Fail?**
 * **Part 4: Can Machines See?**
 * **Part 5: Can Machines Understand Language?**
-
-| Chapter | Paper Title | Authors | Year | Key Concepts Covered |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | *The Perceptron* | Frank Rosenblatt | 1958 | Artificial neurons, decision boundaries, single-layer limits |
-| **02** | *Backpropagation with Errors* | Rumelhart, Hinton, & Williams | 1986 | Credit assignment, chain rule of calculus, gradient descent |
-| **03** | *Word2Vec* | Mikolov et al. | 2013 | Continuous vector spaces, semantic arithmetic, skip-gram model |
-| **04** | *AlexNet* | Krizhevsky, Sutskever, & Hinton | 2012 | Deep CNNs, ReLU activations, dropout regularization, GPU acceleration |
-| **05** | *From History to Transformers* | Various | Modern | Connecting historical foundations to attention mechanisms and LLMs |
