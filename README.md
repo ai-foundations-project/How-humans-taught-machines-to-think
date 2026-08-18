@@ -25,7 +25,7 @@ This open-access educational resource is authored by a 13-year-old student resea
 * **Part 4: Can Machines See?**
 * **Part 5: Can Machines Understand Language?**
 
-* | Chapter | Paper Title | Authors | Year | Key Concepts Covered |
+| Chapter | Paper Title | Authors | Year | Key Concepts Covered |
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | *The Perceptron* | Frank Rosenblatt | 1958 | Artificial neurons, decision boundaries, single-layer limits |
 | **02** | *Backpropagation with Errors* | Rumelhart, Hinton, & Williams | 1986 | Credit assignment, chain rule of calculus, gradient descent |
