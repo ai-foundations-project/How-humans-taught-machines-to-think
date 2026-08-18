@@ -34,16 +34,14 @@ Your feedback is most valuable gift to improve the reading experience or materia
   * $\color{grey}{\text{Neural Networks}}$
   * $\color{grey}{\text{Key question: How do machines learn like children?}}$
 * **Part 3: Why Did AI Fail?**
-  * AI Winters
-  * Expert Systems
-  * **Key question**: Why were smart people wrong?
+  * $\color{grey}{\text{AI Winters}}$
+  * $\color{grey}{\text{Expert Systems}}$
+  * $\color{grey}{\text{Key question: Why were smart people wrong?}}$
 * **Part 4: Can Machines See?**
-  * ImageNet: Geoffrey Hinton and team (AlexNet)
-  * Deep Learning
-  * **Key question**: How did computers learn to recognize cats?
+  * $\color{grey}{\text{ImageNet: Geoffrey Hinton and team (AlexNet)}}$
+  * $\color{grey}{\text{Deep Learning}}$
+  * $\color{grey}{\text{Key question: How did computers learn to recognize cats?}}$
 * **Part 5: Can Machines Understand Language?**
-  * Word embeddings: Word2Vec paper
-  * Sequence models: Seq2Seq paper
-  * **Key question**: How does a machine learn words?
-
-$\color{red}{\text{Important text}}$
+  * $\color{grey}{\text{Word embeddings: Word2Vec paper}}$
+  * $\color{grey}{\text{Sequence models: Seq2Seq paper}}$
+  * $\color{grey}{\text{Key question: How does a machine learn words?}}$
