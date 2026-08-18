@@ -19,9 +19,9 @@ This open-access educational book is authored by an 8th-grade student researcher
 Your feedback is most valuable gift to improve the reading experience or material for the future generations in any way.
 
 ## 👥 Who is this for?
-* **High School & AP Computer Science Students:** Go back into the history of AI 65 years ago to understand how different experiments brought AI where it is today and build a foundational understanding.
-* **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
-* **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
+1. **High School & AP Computer Science Students:** Go back into the history of AI 65 years ago to understand how different experiments brought AI where it is today and build a foundational understanding.
+2. **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
+3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
 
 ## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
