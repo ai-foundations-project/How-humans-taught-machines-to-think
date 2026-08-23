@@ -25,6 +25,7 @@ All three approaches obscure intuition building. So I decided to begin with the 
 ## ✍️ Feedback & Contribution:
 Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
 I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, Id love to hear from you.
+
 Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
 ---
