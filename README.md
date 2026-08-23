@@ -2,13 +2,13 @@
 This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors, AI researchers, and practitioners.
 It provides a safe and welcoming learning environment for young AI explorers.
 
-In this book, you will discover five foundational research that transformed AI from an academic dream into one of humanity's most powerful technologies.
+In this book, you will discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
 
 I translate these papers into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. I believe this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
 
 > [!TIP]
-> **Reading Style:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
+> **Reading Style:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook.
 
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
@@ -20,7 +20,7 @@ All three approaches obscure intuition building. So I decided to begin with the 
 
 ## ✍️ Feedback & Contribution:
 Your feedback to improve the reading experience or material for the future generations in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
-Please write to us at aifoundationsproject@gmail.com
+Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
 ## 👥 Who is this for?
 1. **High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
