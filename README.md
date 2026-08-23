@@ -8,7 +8,7 @@ I translate these papers into intuitive mental models with visual diagrams, our 
 
 
 > [!TIP]
-> **Our Approach:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
+> **Reading Style:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
 
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
