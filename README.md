@@ -14,9 +14,9 @@ I translate these papers into intuitive mental models with visual diagrams, our 
 
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
-1. high-level tutorials - that hide the underlying mechanics
-2. ask AI to learn AI - this is so subjective and difficult for complex subjects
-3. read academic papers verbatim - too difficult as they're packed with dense notations
+1. High-level tutorials - that hide the underlying mechanics
+2. Ask AI to learn AI - this is so subjective and difficult for complex subjects
+3. Read academic papers verbatim - too difficult as they're packed with dense notations
 
 All three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years
 
@@ -24,7 +24,7 @@ All three approaches obscure intuition building. So I decided to begin with the 
 
 ## ✍️ Feedback & Contribution:
 Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
-I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, Id love to hear from you.
+I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, I'd love to hear from you.
 
 Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
@@ -34,7 +34,7 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 * **Middle/High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
 * **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework
 * **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
-* **Parents/AI Enthusiast:** Looking for a starting point and building AI native thinking
+* **Parents & AI Enthusiast:** Looking for a starting point and building AI native thinking
 ---
 
 ## 📋 Table of Contents
@@ -67,7 +67,7 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSekVqI00_Py76AVId1_uLgnPsIZS78IF11rjDEY6n-MGLEVvQ/viewform?usp=header" target="_blank">
-  <img src="https://img.shields.io/badge/📝%20Sign%20Up%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Share Feedback" />
+  <img src="https://img.shields.io/badge/📝%20Sign%20Up%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Sign Up & Get Updates" />
 </a>
 
 ---
