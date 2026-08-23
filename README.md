@@ -24,8 +24,8 @@ Your feedback to improve the reading experience or material for the future gener
 
 ## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
-  * *1950: Alan Turing & The Turing Test*
-  * **Key Question:** What does it mean to think?
+  * $\color{gray}{\text{1950: Alan Turing \& The Turing Test}}$
+  * $\color{gray}{\text{Key Question: What does it mean to think?}}$
 * **Part 2: Can Machines Learn?**
   * $\color{grey}{\text{Perceptron: Rosenblatt (1958)}}$
   * $\color{grey}{\text{Backpropagation: Rumelhart et al. (1986)}}$
