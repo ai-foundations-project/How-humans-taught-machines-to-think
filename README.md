@@ -10,6 +10,8 @@ I translate these papers into intuitive mental models with visual diagrams, our 
 > [!TIP]
 > **Reading Style:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook.
 
+---
+
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
 1. high-level tutorials - that hide the underlying mechanics
@@ -18,15 +20,21 @@ When I started learning AI, like most beginners, I got caught between extremes:
 
 All three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years
 
+---
+
 ## ✍️ Feedback & Contribution:
 Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
 I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, Id love to hear from you.
 Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
+---
+
 ## 👥 Who is this for?
 1. **High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
 2. **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework
 3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
+
+---
 
 ## 📋 Table of Contents
 **Chapter 1: Can Machines Think?**
@@ -57,20 +65,7 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 
 Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
 
-<form action="YOUR_GOOGLE_FORM_OR_BUTTONDOWN_ACTION_URL" method="POST">
-  <label for="email"><strong>Email Address:</strong></label><br>
-  <input type="email" id="email" name="email" placeholder="student@example.com" required style="padding: 8px; width: 250px; margin-top: 5px;">
-  <br><br>
-  <label for="role"><strong>I am a:</strong></label><br>
-  <select id="role" name="role" style="padding: 8px; margin-top: 5px;">
-    <option value="student">Student (High School / College)</option>
-    <option value="educator">Educator / Club Advisor</option>
-    <option value="parent">Parent</option>
-    <option value="enthusiast">Self-Taught Builder</option>
-  </select>
-  <br><br>
-  <input type="submit" value="Get Free Access" style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
-</form>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekVqI00_Py76AVId1_uLgnPsIZS78IF11rjDEY6n-MGLEVvQ/viewform?embedded=true" width="640" height="1255" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
