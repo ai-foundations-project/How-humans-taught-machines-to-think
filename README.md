@@ -25,12 +25,11 @@ Your feedback to improve the reading experience or material for the future gener
 ## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
   * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
-  * $\color{gray}{\text{**Key Question**: What does it mean to think?}}$
+  * $\color{gray}{\text{Key Question: What does it mean to think?}}$
 * **Part 2: Can Machines Learn?**
-  * $\color{grey}{\text{Perceptron: Rosenblatt (1958)}}$
-  * $\color{grey}{\text{Backpropagation: Rumelhart et al. (1986)}}$
-  * $\color{grey}{\text{Neural Networks}}$
-  * $\color{grey}{\text{Key question: How do machines learn like children?}}$
+  * $\color{gray}{\text{Perceptron: Rosenblatt (1958)}}$
+  * $\color{gray}{\text{Backpropagation: Rumelhart et al. (1986)}}$
+  * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
 * **Part 3: Why Did AI Fail?**
   * $\color{grey}{\text{AI Winters}}$
   * $\color{grey}{\text{Expert Systems}}$
