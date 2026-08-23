@@ -23,21 +23,20 @@ Your feedback to improve the reading experience or material for the future gener
 3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
 
 ## 📋 Table of Contents
-* **Part 1 (1950): Can Machines Think?**
+* **Chapter 1 (1950): Can Machines Think?**
   * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
   * $\color{gray}{\text{Key Question: What does it mean to think?}}$
-* **Part 2: Can Machines Learn?**
+* **Chapter 2: Can Machines Learn?**
   * $\color{gray}{\text{Paper 1 - Perceptron: Rosenblatt (1958)}}$
   * $\color{gray}{\text{Paper 2 - Backpropagation: David E. Rumelhart, Geoffrey Hinton, Ronald J. Williams (1986)}}$
   * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
-* **Part 3: Why Did AI Fail?**
+* **Chapter 3: Why Did AI Fail?**
   * $\color{gray}{\text{AI Winters and Expert Systems}}$
   * $\color{gray}{\text{Key Question: Why were smart people wrong?}}$
-
-* **Part 4: Can Machines See?**
+* **Chapter 4: Can Machines See?**
   * $\color{gray}{\text{Paper 3 - ImageNet: Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton (2012)}}$
   * $\color{gray}{\text{Key Question: How did computers learn to recognize cats?}}$
-* **Part 5: Can Machines Understand Language?**
+* **Chapter 5: Can Machines Understand Language?**
   * $\color{gray}{\text{Paper 4 - Word2Vec (Word embeddings), Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever, Jeff Dean (2013)}}$
   * $\color{gray}{\text{Paper 5 - Seq2Seq (Sequence models), Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
   * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
