@@ -1,27 +1,26 @@
 # 📖 How-humans-taught-machines-to-think
-In this book you can discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
+This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors and AI researchers and practitioners.
+It is safe and provides welcoming learning environment for young AI explorers.
 
-This book translates these papers into intuitive mental models with visual diagrams, easy analogies, and hands-on tools in very small chapters.
+In this book you will discover five foundational research papers that laid the foundation for AI from an academic dream into one of humanity's most powerful technologies.
 
-I believe this will provide the most foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
+I translate these papers into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. I believe this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
 ## 💡 Idea & Inspiration
-When exploring modern AI, most beginners get caught between extremes:
-1. high-level tutorials that hide the underlying mechanics,
-2. bottoms up 'ask AI to learn AI', or
-3. academic papers packed with dense notation
+When I started learning AI, like most beginners, I got caught between extremes
+1. high-level tutorials - that hide the underlying mechanics
+2. ask AI to learn AI - this is so subjective and difficult for complex subjects
+3. read academic papers verbatim - too difficult as they're packed with dense notations
 
-All the three approaches obscure intuition building
+All the three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years
 
 ## ✍️ Note to parents & educators:
-This open-access educational book is authored by an 8th-grade student researcher under the guidance of adult mentors to maintain a safe, welcoming learning environment for young AI explorers.
-
-Your feedback is most valuable gift to improve the reading experience or material for the future generations in any way.
+Your feedback to improve the reading experience or material for the future generations in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
 
 ## 👥 Who is this for?
-1. **High School & AP Computer Science Students:** Go back into the history of AI 65 years ago to understand how different experiments brought AI where it is today and build a foundational understanding.
-2. **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
-3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI and robotics programs.
+1. **High School & AP Computer Science Students:** Go back into the history of AI 70 years ago to understand how different experiments brought AI where it is today and build a foundational understanding
+2. **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework
+3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
 
 ## 📋 Table of Contents
 * **Part 1 (1950): Can Machines Think?**
