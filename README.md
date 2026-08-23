@@ -12,6 +12,16 @@ I translate these papers into intuitive mental models with visual diagrams, our 
 
 ---
 
+## 📬 Get Your Free Copy & Updates
+
+Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSekVqI00_Py76AVId1_uLgnPsIZS78IF11rjDEY6n-MGLEVvQ/viewform?usp=header" target="_blank">
+  <img src="https://img.shields.io/badge/📝%20Sign%20Up%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Sign Up & Get Updates" />
+</a>
+
+---
+
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
 1. High-level tutorials - that hide the underlying mechanics
@@ -62,19 +72,9 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 
 ---
 
-## 📬 Get Your Free Copy & Updates
-
-Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSekVqI00_Py76AVId1_uLgnPsIZS78IF11rjDEY6n-MGLEVvQ/viewform?usp=header" target="_blank">
-  <img src="https://img.shields.io/badge/📝%20Sign%20Up%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Sign Up & Get Updates" />
-</a>
-
----
-
 ## 🤝 Open Source & Community
 
-This book is completely free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it within your network.
+This book is free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your network.
 
 * **GitHub Repository:** [[github.com/username/ai-foundations-book](https://github.com/ai-foundations-project/How-humans-taught-machines-to-think)]
 * **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
