@@ -33,7 +33,7 @@ Your feedback to improve the reading experience or material for the future gener
 * **Part 3: Why Did AI Fail?**
   * $\color{gray}{\text{AI Winters and Expert Systems}}$
   * $\color{gray}{\text{Key Question: Why were smart people wrong?}}$
-  * 
+
 * **Part 4: Can Machines See?**
   * $\color{gray}{\text{ImageNet and AlexNet: Geoffrey Hinton et al. (2012)}}$
   * $\color{gray}{\text{Key Question: How did computers learn to recognize cats?}}$
