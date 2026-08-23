@@ -31,14 +31,12 @@ Your feedback to improve the reading experience or material for the future gener
   * $\color{gray}{\text{Backpropagation: Rumelhart et al. (1986)}}$
   * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
 * **Part 3: Why Did AI Fail?**
-  * $\color{grey}{\text{AI Winters}}$
-  * $\color{grey}{\text{Expert Systems}}$
-  * $\color{grey}{\text{Key question: Why were smart people wrong?}}$
+  * $\color{gray}{\text{AI Winters \& Expert Systems}}$
+  * $\color{gray}{\text{Key Question: Why were smart people wrong?}}$
 * **Part 4: Can Machines See?**
-  * $\color{grey}{\text{ImageNet: Geoffrey Hinton and team (AlexNet)}}$
-  * $\color{grey}{\text{Deep Learning}}$
-  * $\color{grey}{\text{Key question: How did computers learn to recognize cats?}}$
+* $\color{gray}{\text{ImageNet \& AlexNet: Geoffrey Hinton et al. (2012)}}$
+  * $\color{gray}{\text{Key Question: How did computers learn to recognize cats?}}$
 * **Part 5: Can Machines Understand Language?**
-  * $\color{grey}{\text{Word embeddings: Word2Vec paper}}$
-  * $\color{grey}{\text{Sequence models: Seq2Seq paper}}$
-  * $\color{grey}{\text{Key question: How does a machine learn words?}}$
+  * $\color{gray}{\text{Word embeddings: Word2Vec paper, Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever and Jeff Dean (2013)}}$
+  * $\color{gray}{\text{Sequence models: Seq2Seq paper, Ilya Sutskever, Oriol Vinyals, and Quoc Le (2014)}}$
+  * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
