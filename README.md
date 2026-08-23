@@ -76,5 +76,5 @@ Sign up below to receive the free PDF release and receive invitations for upcomi
 
 This book is completely free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it within your network.
 
-* **GitHub Repository:** [[github.com/username/ai-foundations-book](https://github.com/ai-foundations-project/How-humans-taught-machines-to-think)](#)
+* **GitHub Repository:** [[github.com/username/ai-foundations-book](https://github.com/ai-foundations-project/How-humans-taught-machines-to-think)]
 * **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
