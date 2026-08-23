@@ -27,8 +27,8 @@ Your feedback to improve the reading experience or material for the future gener
   * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
   * $\color{gray}{\text{Key Question: What does it mean to think?}}$
 * **Part 2: Can Machines Learn?**
-  * $\color{gray}{\text{Perceptron: Rosenblatt (1958)}}$
-  * $\color{gray}{\text{Backpropagation: Rumelhart et al. (1986)}}$
+  * $\color{gray}{\text{Paper 1 - Perceptron: Rosenblatt (1958)}}$
+  * $\color{gray}{\text{Paper 2 - Backpropagation: Rumelhart et al. (1986)}}$
   * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
 * **Part 3: Why Did AI Fail?**
   * $\color{gray}{\text{AI Winters and Expert Systems}}$
