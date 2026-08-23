@@ -1,4 +1,4 @@
-# 📖 How humans taught machines to think
+# 📖 How Humans Taught Machines to Think
 This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors, AI researchers, and practitioners.
 It provides a safe and welcoming learning environment for young AI explorers.
 
@@ -51,3 +51,32 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 * $\color{gray}{\text{Paper 5 - Seq2Seq (Sequence models), Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
 * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
 
+---
+
+## 📬 Get Your Free Copy & Updates
+
+Sign up below to receive the free PDF release and receive invitations to upcoming virtual peer paper-reading sessions.
+
+<form action="YOUR_GOOGLE_FORM_OR_BUTTONDOWN_ACTION_URL" method="POST">
+  <label for="email"><strong>Email Address:</strong></label><br>
+  <input type="email" id="email" name="email" placeholder="student@example.com" required style="padding: 8px; width: 250px; margin-top: 5px;">
+  <br><br>
+  <label for="role"><strong>I am a:</strong></label><br>
+  <select id="role" name="role" style="padding: 8px; margin-top: 5px;">
+    <option value="student">Student (High School / College)</option>
+    <option value="educator">Educator / Club Advisor</option>
+    <option value="parent">Parent</option>
+    <option value="enthusiast">Self-Taught Builder</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Get Free Access" style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
+</form>
+
+---
+
+## 🤝 Open Source & Community
+
+This book is completely free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your local computer science club.
+
+* **GitHub Repository:** [github.com/username/ai-foundations-book](#)
+* **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
