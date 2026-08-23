@@ -19,7 +19,8 @@ When I started learning AI, like most beginners, I got caught between extremes:
 All three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years
 
 ## ✍️ Feedback & Contribution:
-Your feedback to improve the reading experience or material for the future generations in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
+Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
+I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, Id love to hear from you.
 Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
 ## 👥 Who is this for?
