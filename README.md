@@ -6,6 +6,10 @@ In this book, you will discover five foundational research that transformed AI f
 
 I translate these papers into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. I believe this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
+
+> [!TIP]
+> **Our Approach:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
+
 ## 💡 Idea & Inspiration
 When I started learning AI, like most beginners, I got caught between extremes:
 1. high-level tutorials - that hide the underlying mechanics
@@ -46,5 +50,3 @@ Please write to us at aifoundationsproject@gmail.com
 * $\color{gray}{\text{Paper 5 - Seq2Seq (Sequence models), Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
 * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
 
-> [!TIP]
-> **Our Approach:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
