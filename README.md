@@ -55,7 +55,7 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 
 ## 📬 Get Your Free Copy & Updates
 
-Sign up below to receive the free PDF release and receive invitations to upcoming virtual peer paper-reading sessions.
+Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
 
 <form action="YOUR_GOOGLE_FORM_OR_BUTTONDOWN_ACTION_URL" method="POST">
   <label for="email"><strong>Email Address:</strong></label><br>
@@ -76,7 +76,7 @@ Sign up below to receive the free PDF release and receive invitations to upcomin
 
 ## 🤝 Open Source & Community
 
-This book is completely free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your local computer science club.
+This book is completely free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it within your network.
 
-* **GitHub Repository:** [github.com/username/ai-foundations-book](#)
+* **GitHub Repository:** [[github.com/username/ai-foundations-book](https://github.com/ai-foundations-project/How-humans-taught-machines-to-think)](#)
 * **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
