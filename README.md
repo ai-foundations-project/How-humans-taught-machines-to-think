@@ -23,7 +23,7 @@ Your feedback to improve the reading experience or material for the future gener
 3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
 
 ## 📋 Table of Contents
-* **Chapter 1 (1950): Can Machines Think?**
+* **Chapter 1: Can Machines Think?**
   * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
   * $\color{gray}{\text{Key Question: What does it mean to think?}}$
 * **Chapter 2: Can Machines Learn?**
