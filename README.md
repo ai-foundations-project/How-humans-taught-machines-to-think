@@ -38,6 +38,6 @@ Your feedback to improve the reading experience or material for the future gener
   * $\color{gray}{\text{Paper 3 - ImageNet: Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton (2012)}}$
   * $\color{gray}{\text{Key Question: How did computers learn to recognize cats?}}$
 * **Part 5: Can Machines Understand Language?**
-  * $\color{gray}{\text{Paper 4 - Word embeddings: Word2Vec paper, Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever, Jeff Dean (2013)}}$
-  * $\color{gray}{\text{Paper 5 - Sequence models: Seq2Seq paper, Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
+  * $\color{gray}{\text{Paper 4 - Word2Vec (Word embeddings), Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever, Jeff Dean (2013)}}$
+  * $\color{gray}{\text{Paper 5 - Seq2Seq (Sequence models), Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
   * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
