@@ -31,10 +31,10 @@ Your feedback to improve the reading experience or material for the future gener
   * $\color{gray}{\text{Backpropagation: Rumelhart et al. (1986)}}$
   * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
 * **Part 3: Why Did AI Fail?**
-  * $\color{gray}{\text{AI Winters \& Expert Systems}}$
+  * $\color{gray}{\text{AI Winters and Expert Systems}}$
   * $\color{gray}{\text{Key Question: Why were smart people wrong?}}$
 * **Part 4: Can Machines See?**
-* $\color{gray}{\text{ImageNet \& AlexNet: Geoffrey Hinton et al. (2012)}}$
+* $\color{gray}{\text{ImageNet and AlexNet: Geoffrey Hinton et al. (2012)}}$
   * $\color{gray}{\text{Key Question: How did computers learn to recognize cats?}}$
 * **Part 5: Can Machines Understand Language?**
   * $\color{gray}{\text{Word embeddings: Word2Vec paper, Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever and Jeff Dean (2013)}}$
