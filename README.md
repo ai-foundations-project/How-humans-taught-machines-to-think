@@ -66,7 +66,7 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 Sign up below to receive the free PDF release and receive invitations for upcoming virtual peer paper-reading sessions.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSekVqI00_Py76AVId1_uLgnPsIZS78IF11rjDEY6n-MGLEVvQ/viewform?usp=header" target="_blank">
-  <img src="https://img.shields.io/badge/📝%20Share%20Feedback%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Share Feedback" />
+  <img src="https://img.shields.io/badge/📝%20Sign%20Up%20%26%20Get%20Updates-Click%20Here-blue?style=for-the-badge" alt="Share Feedback" />
 </a>
 
 ---
