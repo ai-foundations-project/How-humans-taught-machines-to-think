@@ -2,12 +2,12 @@
 This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors, AI researchers, and practitioners.
 It provides a safe and welcoming learning environment for young AI explorers.
 
-In this book, you will discover five foundational research papers that laid the foundation for AI from an academic dream into one of humanity's most powerful technologies.
+In this book, you will discover five foundational research that transformed AI from an academic dream into one of humanity's most powerful technologies.
 
 I translate these papers into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. I believe this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
 ## 💡 Idea & Inspiration
-When I started learning AI, like most beginners, I got caught between extremes
+When I started learning AI, like most beginners, I got caught between extremes:
 1. high-level tutorials - that hide the underlying mechanics
 2. ask AI to learn AI - this is so subjective and difficult for complex subjects
 3. read academic papers verbatim - too difficult as they're packed with dense notations
