@@ -1,5 +1,5 @@
 # 📖 How-humans-taught-machines-to-think
-This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors and AI researchers and practitioners.
+This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors, AI researchers, and practitioners.
 It is safe and provides welcoming learning environment for young AI explorers.
 
 In this book you will discover five foundational research papers that laid the foundation for AI from an academic dream into one of humanity's most powerful technologies.
