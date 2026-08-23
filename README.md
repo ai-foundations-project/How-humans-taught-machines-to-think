@@ -14,8 +14,9 @@ When I started learning AI, like most beginners, I got caught between extremes:
 
 All three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years
 
-## ✍️ Note to parents & educators:
+## ✍️ Feedback & Contribution:
 Your feedback to improve the reading experience or material for the future generations in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
+Please write to us at aifoundationsproject@gmail.com
 
 ## 👥 Who is this for?
 1. **High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
@@ -44,3 +45,6 @@ Your feedback to improve the reading experience or material for the future gener
 * $\color{gray}{\text{Paper 4 - Word2Vec (Word embeddings), Tomáš Mikolov, Kai Chen, Greg Corrado, Ilya Sutskever, Jeff Dean (2013)}}$
 * $\color{gray}{\text{Paper 5 - Seq2Seq (Sequence models), Ilya Sutskever, Oriol Vinyals, Quoc Le (2014)}}$
 * $\color{gray}{\text{Key Question: How does a machine learn words?}}$
+
+> [!TIP]
+> **Our Approach:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook
