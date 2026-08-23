@@ -31,10 +31,10 @@ Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproj
 ---
 
 ## 👥 Who is this for?
-**Middle/High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
-**Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework
-**Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
-**Parents/AI Enthusiast:** Looking for a starting point and building AI native thinking
+* **Middle/High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding
+* **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework
+* **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
+* **Parents/AI Enthusiast:** Looking for a starting point and building AI native thinking
 ---
 
 ## 📋 Table of Contents
