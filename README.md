@@ -23,10 +23,10 @@ Your feedback to improve the reading experience or material for the future gener
 3. **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs
 
 ## 📋 Table of Contents
-* **Chapter 1: Can Machines Think?**
-  * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
-  * $\color{gray}{\text{Key Question: What does it mean to think?}}$
-* **Chapter 2: Can Machines Learn?**
+**Chapter 1: Can Machines Think?**
+* $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
+* $\color{gray}{\text{Key Question: What does it mean to think?}}$
+**Chapter 2: Can Machines Learn?**
   * $\color{gray}{\text{Paper 1 - Perceptron: Rosenblatt (1958)}}$
   * $\color{gray}{\text{Paper 2 - Backpropagation: David E. Rumelhart, Geoffrey Hinton, Ronald J. Williams (1986)}}$
   * $\color{gray}{\text{Key Question: How do machines learn like children?}}$
