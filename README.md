@@ -1,10 +1,8 @@
 # 📖 It Started With One Neuron
 
-<br />
-
+<p align=center>
 <img src="It Started with One Neuron.png" alt="It Started with One Neuron Book Cover" width="500" />
-
-<br />
+</p>
 
 This open-access educational book is authored by an 8th-grade student researcher, Anshita Gupta, under the guidance of adult mentors, AI researchers, and practitioners.
 It provides a safe and welcoming learning environment for young AI explorers.
