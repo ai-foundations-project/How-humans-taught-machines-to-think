@@ -5,7 +5,7 @@ It provides a safe and welcoming learning environment for young AI explorers.
 
 In this book, you will discover five foundational research papers that transformed AI from an academic dream into one of humanity's most powerful technologies.
 
-I translate these papers into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. I believe this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
+Anshita translates these papers with a young researcher's lens into intuitive mental models with visual diagrams, our day to day life analogies, and hands-on tools in very small chapters. She believes this will provide the most critical foundational understanding into how to think about AI as we all adopt it in a deeper way with time.
 
 > [!TIP]
 > **Reading Style:** You can pick any chapter and begin anywhere. This book is carefully structured to give you freedom in reading and not treat it as a textbook.
@@ -23,20 +23,18 @@ Sign up below to receive the free PDF release and invitations for upcoming virtu
 ---
 
 ## 💡 Idea & Inspiration
-When I started learning AI, like most beginners, I got caught between extremes:
+When she started learning AI, like most beginners, she got caught between extremes:
 1. **High-level tutorials** — that hide the underlying mechanics.
 2. **Asking AI to learn AI** — this is so subjective and difficult for complex subjects.
 3. **Reading academic papers verbatim** — too difficult as they're packed with dense notations.
 
-All three approaches obscure intuition building. So I decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years.
+All three approaches obscure intuition building. So she decided to begin with the history from the very beginning through the lens of those researchers who were conceptualizing AI for the past 70+ years.
 
 ---
 
 ## ✍️ Feedback & Contribution
 Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
-I also intend to write another book covering the next top 5 research papers. Should you want to contribute to the project, I'd love to hear from you.
-
-Please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
+She plans to write another book covering the next top 5 research papers. Should you want to contribute to the project, please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
 ---
 
