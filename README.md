@@ -78,7 +78,7 @@ She plans to write another book covering the next top 5 research papers. Should 
 
 ## 🤝 Open Source & Community
 
-This book is free and open source. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your network.
+This book is open access. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your network.
 
 * **GitHub Repository:** [ai-foundations-project/How-humans-taught-machines-to-think](https://github.com/ai-foundations-project/How-humans-taught-machines-to-think)
 * **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
