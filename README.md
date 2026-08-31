@@ -1,4 +1,4 @@
-# 📖 It Started With One Neuron
+# It Started With One Neuron
 
 <p align=center>
 <img src="It Started with One Neuron.png" alt="It Started with One Neuron Book Cover" width="500" />
@@ -16,7 +16,7 @@ Anshita translates these papers with a young researcher's lens into intuitive me
 
 ---
 
-## 📬 Get Your Free Copy & Updates
+## Get Your Free Copy & Updates
 
 Sign up below to receive the free PDF release and invitations for upcoming virtual peer paper-reading sessions.
 
@@ -26,7 +26,7 @@ Sign up below to receive the free PDF release and invitations for upcoming virtu
 
 ---
 
-## 💡 Idea & Inspiration
+## Idea & Inspiration
 When she started learning AI, like most beginners, she got caught between extremes:
 1. **High-level tutorials** — that hide the underlying mechanics.
 2. **Asking AI to learn AI** — this is so subjective and difficult for complex subjects.
@@ -36,13 +36,13 @@ All three approaches obscure intuition building. So she decided to begin with th
 
 ---
 
-## ✍️ Feedback & Contribution
+## Feedback & Contribution
 Your feedback to improve the reading experience or material in any way is the most valuable gift. Any words of encouragement will be equally appreciated.
 She plans to write another book covering the next top 5 research papers. Should you want to contribute to the project, please write to us at: [aifoundationsproject@gmail.com](mailto:aifoundationsproject@gmail.com)
 
 ---
 
-## 👥 Who is this for?
+## Who is this for?
 * **Middle/High School & AP Computer Science Students:** Explore 70 years of AI history to understand how different experiments brought AI where it is today and build a foundational understanding.
 * **Undergraduate Beginners:** Seeking a visual, conceptual companion guide before tackling primary coursework.
 * **Educators & STEM Club Leaders:** Looking for free, modular supplementary reading materials for AI programs.
@@ -50,7 +50,7 @@ She plans to write another book covering the next top 5 research papers. Should 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 **Chapter 1: Can Machines Think?**
 * $\color{gray}{\text{1950: Alan Turing and The Turing Test}}$
@@ -76,7 +76,7 @@ She plans to write another book covering the next top 5 research papers. Should 
 
 ---
 
-## 🤝 Open Source & Community
+## Open Access & Community
 
 This book is open access. You can star the repository on GitHub, suggest edits via Pull Requests, or share it with your network.
 
